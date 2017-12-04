@@ -1,0 +1,4 @@
+---
+- hosts: all
+  roles:
+    - { role: "seanw7.build-essential" }

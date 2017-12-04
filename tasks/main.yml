@@ -1,0 +1,3 @@
+---
+- name: "Install build-essential/developement tools"
+  yum: name="@Development Tools" state=present
